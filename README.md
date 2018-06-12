@@ -1,7 +1,9 @@
 # PAC-MAN PROJECTs
 
-[Link](http://ai.berkeley.edu/project_overview.html)
+Worked on projects for an introductory class on **Artificial Intelligence**.
+[Berkeley Pac-man project](http://ai.berkeley.edu/project_overview.html)
 
+**Take Aways**
 -Studied and implemented various algorithms using Python to simulate conceptual knowledge for the subject.
 -Algorithms included DFS, BFS, uniform cost, A* search, minimax and expectimax
 -Implemented model-based and model-free reinforcement learning algorithms
